@@ -1,4 +1,4 @@
-# Domain Name Search
+# Domain Name Search; http://promptdomainsearch.com/
 We download huge lists of registered names from VeriSign and other gTLD providers every night. Almost all domain names that are in use are included in these lists, called zone files. We index the zone files, and host the indexes in data centers around the world.
 
 When you first visit our web site, we determine which of our servers is closest to you, and set up a secure link from your browser to our server. As you type, we search our index for the exact match, and also try to come up with useful suggestions that you may also be interested in buying.
